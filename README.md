@@ -1,4 +1,5 @@
 # Calculator.js: node.js 演示项目
+[![Build Status](https://fenggaoyao.visualstudio.com/Demo/_apis/build/status/Demo-CI)](https://fenggaoyao.visualstudio.com/Demo/_build/latest?definitionId=2)
 
 本应用使用node.js创建，并包含了试用mocha的单元测试代码。本应用的运行状态为网页中的计算器，如下图：
 
